@@ -3,7 +3,7 @@ var today =moment().format('dddd,MMMM Do YYYY');
 $("#currentDay").html(today);
 
 //Console log the hour  you run the app
- var theHourNow = moment().format('h');
+ var theHourNow = moment().format('H');
 console.log(theHourNow);
 
 //Time assignments AM ,PM
