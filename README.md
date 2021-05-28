@@ -10,4 +10,4 @@ The application does the following -
 
 https://judymotha.github.io/work-day-planner/
 
-<src = "./Planner.PNG>
+<img src="./Planner.PNG">
