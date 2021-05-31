@@ -112,10 +112,10 @@ $('.saveBtn').on('click', function(){
 });
 
 $(window).on('load', function(){
+ 
     $('input[type="text"]').each(function(){    
         var id = $(this).attr('id');
         var value = localStorage.getItem(id);
-
         $(this).val(value);
 
     }); 
