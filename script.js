@@ -14,7 +14,7 @@ var noon1 = 13;var noon2 = 14;var noon3 = 15;var noon4 = 16;var noon5 = 17;
 
 //The if else blocks decides the color code in the app : PAST time in grey ,future time in GREEN and PRESENT time in red
 //There are individual blocks for each hour from 9-5
-//Notes for myself:Improve code by removing if else blocks & replace with a function for Past,present,future.
+//Notes for myself:I can reduce repetitions by  removing if else blocks & replace with a function for Past,present,future.
 //Reduce HTML code for 9-5 hours by having a for loop and appending data in this script
 
 
