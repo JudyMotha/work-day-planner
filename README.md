@@ -11,6 +11,6 @@ The application does the following -
 
 https://judymotha.github.io/work-day-planner/
 
-Plans to remove repetetive code (DRY)  and shorten the code at a  later time
+Plans to remove repetetive code (DRY)  and shorten  the code at a  later time
 
 <img src="./Planner.PNG">
