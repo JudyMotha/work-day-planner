@@ -16,5 +16,5 @@ The application does the following -
 * Screenshot & Gif
 
 <img src="./Planner.PNG">
-<img sec="./WDS.gif">
+<img src="./WDS.gif">
 
