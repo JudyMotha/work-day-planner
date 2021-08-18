@@ -1,5 +1,5 @@
 # work-day-planner
-test
+
 
 The application does the following -
 
@@ -8,9 +8,13 @@ The application does the following -
 * timeblock is color coded to indicate whether it is in the past(Grey), presen(Red), or future(Green) depending upon the time(moment) you visit this application
 * The user is allowed to enter an event/text and click save button
 * The text for that event is saved in local storage and remains on app page when refreshed
+* Technology :HTML,CSS,Javascript,JQuery,Moment JS
 
-https://judymotha.github.io/work-day-planner/
+* DEployed Link https://judymotha.github.io/work-day-planner/
 
-Plans to remove repetetive code (DRY)  and shorten  the code at a  later time
+# Visual:
+* Screenshot & Gif
 
 <img src="./Planner.PNG">
+<img sec="./WDS.gif">
+
