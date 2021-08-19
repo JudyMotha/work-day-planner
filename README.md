@@ -1,4 +1,4 @@
-# work-day-planner
+# Work-day-planner
 
 
 The application does the following -
