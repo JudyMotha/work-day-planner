@@ -11,6 +11,7 @@ The application does the following -
 * Technology :HTML,CSS,Javascript,JQuery,Moment JS
 
 * DEployed Link https://judymotha.github.io/work-day-planner/
+* GH link https://github.com/JudyMotha/work-day-planner
 
 # Visual:
 * Screenshot & Gif
