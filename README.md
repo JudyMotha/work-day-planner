@@ -14,10 +14,10 @@ The application does the following -
 * GH link https://github.com/JudyMotha/work-day-planner
 
 # Visual:
-* Screenshot 
+# Screenshot 
 * Note:Screenshot1 - Shows Workday Planner with time that has gone past ; and Screenshot 2 shows time past,present and future
 <img src="./Planner.PNG">
 <img src="./Workday2.PNG">
-* GIF file
+# GIF file
 <img src="./WDS.gif">
 
