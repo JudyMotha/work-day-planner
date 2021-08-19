@@ -15,6 +15,7 @@ The application does the following -
 
 # Visual:
 * Screenshot & Gif
+* Note:Screenshot1 - Shows Workday Planner with time that has gone past ; and Screenshot 2 shows time past,present and future
 
 <img src="./Planner.PNG">
 <img src="./Workday2.PNG">
